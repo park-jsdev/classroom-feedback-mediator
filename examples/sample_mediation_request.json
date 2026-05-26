@@ -1,0 +1,32 @@
+{
+  "teacher_signals": {
+    "friction": 0.220
+  },
+  "student_signals": {
+    "topics": [
+      {
+        "topic_id": "analogical_reasoning",
+        "gap_count": 25,
+        "total_students": 159,
+        "survey_difficulty": 0.193
+      },
+      {
+        "topic_id": "frames",
+        "gap_count": 20,
+        "total_students": 159,
+        "survey_difficulty": 0.093
+      },
+      {
+        "topic_id": "planning",
+        "gap_count": 16,
+        "total_students": 159,
+        "survey_difficulty": 0.064
+      }
+    ]
+  },
+  "weights": {
+    "w_r": 0.7,
+    "w_d": 0.2,
+    "w_f": 0.1
+  }
+}

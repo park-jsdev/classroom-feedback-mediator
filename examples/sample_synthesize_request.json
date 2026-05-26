@@ -1,0 +1,23 @@
+{
+  "students": [
+    {
+      "student_id": "case_a",
+      "raw_risk": 0.31,
+      "help_risk": 0.70,
+      "reflect_risk": 0.52,
+      "raw_baseline": false,
+      "help_baseline": false,
+      "reflect_baseline": false
+    },
+    {
+      "student_id": "baseline_flagged",
+      "raw_risk": 0.90,
+      "help_risk": 0.20,
+      "reflect_risk": 0.15,
+      "raw_baseline": true,
+      "help_baseline": false,
+      "reflect_baseline": false
+    }
+  ],
+  "threshold": 0.5
+}
